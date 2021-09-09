@@ -2,4 +2,4 @@
 
 My [LinkedIn profile](https://www.linkedin.com/in/dmitry-zorikhin/).
 
-My [Portfolio Website](https://churn-prediction-dz.herokuapp.com).
+My [Portfolio Website](https://dzorikhin.github.io/portfolio/).
